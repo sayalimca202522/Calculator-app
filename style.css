@@ -74,3 +74,10 @@ button:nth-child(15) {
 button:nth-child(16) {
     background: #f7b731; /* + */
 }
+.title {
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 28px;
+    letter-spacing: 1px;
+}
